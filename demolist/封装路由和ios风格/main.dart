@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import './router/index.dart';
+import 'router/index.dart';
 
 void main() {
   runApp(const MyApp());
